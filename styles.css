@@ -2,16 +2,16 @@
 #yellow{
 	background:yellow;
 	border-width:1px;
-	border-color:#00ff00;
+	border-color: 00ff00;
 }
 #red{
 	background:red;
 	border-width:1px;
-	border-color:black;
+	border-color: 000000;
 	}
 #green{
 	background:green;
 	border-width:1px;
-	border-color:yellow;
+	border-color: FFFF00;
 
 }
